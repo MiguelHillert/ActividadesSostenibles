@@ -5,8 +5,8 @@ _Un trabajo sobre las Actividades Sostenibles_
 ---
 
 ### 1. :bangbang: [Impacto Ambiental del Sector TI](impacto.md)
-### 2. [Estrategias de Sostenibilidad en TI](estrategia.md)
-### 3. [Ejemplos y Buenas Prácticas](practicas.md)
+### 2. :checkered_flag: [Estrategias de Sostenibilidad en TI](estrategia.md)
+### 3. :white_check_mark: [Ejemplos y Buenas Prácticas](practicas.md)
 
 ---
 
