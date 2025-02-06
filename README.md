@@ -1,4 +1,4 @@
-# 🔄 Actividades Sostenibles
+# 🌳 Actividades Sostenibles
 
 _Un trabajo sobre las Actividades Sostenibles_
 
