@@ -30,9 +30,3 @@ Desde el transporte de equipos hasta la distribución de productos, las empresas
 
 ### 🌍 **7. Cultura Empresarial y Concienciación**  
 La sostenibilidad en TI no solo es un tema técnico, sino también cultural. **Educar a empleados y usuarios** sobre prácticas responsables, como el **uso eficiente de la energía**, el **reciclaje electrónico** y la **gestión de residuos digitales**, es clave para lograr un impacto real.
-
----
-
-## 💡 **Conclusión**  
-Las estrategias de sostenibilidad en TI buscan reducir el impacto ambiental de la tecnología sin sacrificar la innovación. Desde **energías renovables** hasta **software eficiente**, la clave está en adoptar un enfoque más responsable para que la tecnología sea un aliado del planeta.
-
