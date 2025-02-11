@@ -1,4 +1,4 @@
-## 📚 Referencias
+## 📚 [Referencias](README.md)
 
 **Impacto Ambiental en el Sector TI**
 - [Unepccc.org](https://unepccc.org/wp-content/uploads/sites/3/2020/10/data-centres-digitalisation-powerhouse-and-energy-efficiency-potential-es.pdf?)
@@ -15,3 +15,6 @@
 
 **Glosario**
 - [ChatGPT](https://chatgpt.com/)
+
+**Imagenes**
+- [Google Images](https://www.google.es/)
