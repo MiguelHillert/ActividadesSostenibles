@@ -2,6 +2,8 @@
 
 La tecnología avanza a pasos agigantados, pero su impacto ambiental nos obliga a replantear cómo hacemos las cosas. La buena noticia es que el sector TI está adoptando estrategias sostenibles para reducir su huella ecológica y ser más eficiente.
 
+<img src="img/estrategias_sostenibles.webp">
+
 ### 🔋 **Uso de Energías Renovables**  
 Uno de los mayores problemas de la tecnología es su alto consumo energético, en especial los **centros de datos**. Para reducir el impacto, muchas empresas están migrando a **fuentes de energía renovable** como la solar, eólica e hidroeléctrica. Empresas como Google, Microsoft y Amazon ya operan con **energía 100% renovable** en varios de sus centros de datos.
 
