@@ -8,3 +8,10 @@
 **Estrategias de Sostenibilidad en TI**
 - [Ibm.com](https://www.ibm.com/es-es/think/topics/sustainable-it?)
 - [Openit.com](https://openit.com/es/sustainable-it-benefits-and-strategies-to-implement/?)
+
+**Ejemplos y Buenas Prácticas**
+- [Concur.blog](https://www.concur.co/blog/article/practicas-de-sostenibilidad-empresarial-para-impulsar-tu-negocio?)
+- [Shopify.com](https://www.shopify.com/es/blog/practicas-sostenibles-de-negocio?)
+
+**Glosario**
+- [ChatGPT](https://chatgpt.com/)
