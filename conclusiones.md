@@ -1,4 +1,4 @@
-## 💡 Conclusiones
+## 💡 [Conclusiones](README.md)
 El sector TI tiene un alto impacto ambiental, pero también el potencial de liderar la sostenibilidad con estrategias eficientes.
 
 ✅ Optimización energética y energías renovables reducen la huella de los centros de datos.\
