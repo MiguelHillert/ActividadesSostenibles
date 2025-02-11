@@ -1,4 +1,4 @@
-## :checkered_flag: Estrategias de Sostenibilidad en TI
+## :checkered_flag: [Estrategias de Sostenibilidad en TI](README.md)
 
 La tecnología avanza a pasos agigantados, pero su impacto ambiental nos obliga a replantear cómo hacemos las cosas. La buena noticia es que el sector TI está adoptando estrategias sostenibles para reducir su huella ecológica y ser más eficiente.
 
