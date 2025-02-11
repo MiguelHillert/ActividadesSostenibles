@@ -2,7 +2,7 @@
 
 La tecnología avanza a pasos agigantados, pero su impacto ambiental nos obliga a replantear cómo hacemos las cosas. La buena noticia es que el sector TI está adoptando estrategias sostenibles para reducir su huella ecológica y ser más eficiente.
 
-<img src="img/estrategias_sostenibles.webp" alt="estrategias" width="1000" height="500">
+<img src="img/estrategias_sostenibles.webp" alt="estrategias" width="800" height="500">
 
 
 ### 🔋 **Uso de Energías Renovables**  
