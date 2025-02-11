@@ -1,4 +1,4 @@
-## :bangbang: Impacto Ambiental del Sector TI 
+## :bangbang: [Impacto Ambiental del Sector TI](README.md)
 
 Cuando pensamos en tecnología, solemos imaginarnos innovación, eficiencia y conectividad global. Pero detrás de cada dispositivo, cada línea de código y cada clic, hay una huella ambiental que pocas veces tomamos en cuenta.  
 
