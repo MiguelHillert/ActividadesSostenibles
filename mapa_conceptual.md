@@ -1,3 +1,3 @@
 ## 🧷 Mapa conceptual
 
-![mapa_conceptual](img/mapa_conceptual.png)
+![mapa_conceptual](img/mapa_conceptual_act.png)
