@@ -2,7 +2,7 @@
 
 Cuando pensamos en tecnología, solemos imaginarnos innovación, eficiencia y conectividad global. Pero detrás de cada dispositivo, cada línea de código y cada clic, hay una huella ambiental que pocas veces tomamos en cuenta.  
 
-<img src="img/impacto_ambiental.jpg" alt="imp_ambiental" width="1200" height="500">
+<img src="img/impacto_ambiental.jpg" alt="imp_ambiental" width="1000" height="500">
 
 ### ⚡ El consumo energético de la infraestructura digital  
 Los **centros de datos**, esos enormes almacenes de información que mantienen internet funcionando, son auténticos devoradores de energía. Para que te hagas una idea, un solo centro de datos puede consumir **tanta electricidad como una pequeña ciudad**. Y no es solo por los servidores: los sistemas de **refrigeración** también demandan enormes cantidades de energía.  
