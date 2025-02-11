@@ -28,5 +28,5 @@ Desde el transporte de equipos hasta la distribución de productos, las empresas
 - **Uso de embalajes ecológicos y biodegradables**.  
 - **Fomento del trabajo remoto** para reducir los desplazamientos diarios.
 
-### 🌍 **7. Cultura Empresarial y Concienciación**  
-La sostenibilidad en TI no solo es un tema técnico, sino también cultural. **Educar a empleados y usuarios** sobre prácticas responsables, como el **uso eficiente de la energía**, el **reciclaje electrónico** y la **gestión de residuos digitales**, es clave para lograr un impacto real.
+### 🌍 **7. Virtualización y Reducción del Impacto Ambiental**
+- La virtualización permite ejecutar múltiples sistemas en menos servidores, reduciendo el consumo energético y la generación de residuos electrónicos.
