@@ -16,8 +16,3 @@ Aquí entramos en un tema delicado: **el ciclo de vida de nuestros dispositivos*
 ### 🚛 Transporte digital, pero con impacto físico  
 Aunque todo parece viajar de forma instantánea, la infraestructura detrás de internet tiene un impacto real. Los **cables submarinos, los satélites de comunicación y la distribución física** de dispositivos generan emisiones por transporte y producción.  
 
-### 🌱 Hacia una tecnología más sostenible  
-La buena noticia es que el sector TI también está buscando soluciones. Grandes empresas están migrando a **energías renovables** para sus centros de datos, se están desarrollando **chips más eficientes** en consumo y hay iniciativas de **economía circular** para reutilizar componentes electrónicos. Además, la **computación en la nube bien optimizada** puede reducir el impacto al compartir recursos en vez de depender de equipos individuales.  
-
-## 💡 Conclusión  
-La tecnología ha cambiado el mundo, pero también tiene un coste ambiental que no podemos ignorar. La clave está en encontrar un equilibrio entre **innovación y sostenibilidad**, apostando por el **consumo responsable, el reciclaje y el uso eficiente de la energía**.  
